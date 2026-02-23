@@ -1,6 +1,6 @@
-## BMI Calculator
-         A simple React-based BMI (Body Mass Index) Calculator that calculates BMI using height and weight and shows the health status.
-         
+## BMI CALCULATOR
+   A simple React-based BMI (Body Mass Index) Calculator that calculates BMI using height and weight and shows the health status.
+   
 ### Features
     - Enter Name, Weight (kg), and Height (cm)
     - Calculates BMI instantly
